@@ -2,15 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa96ab93-6ae9-4372-94b8-86bb9f2a7ab2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/Automat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/GeneratorBiletow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/IGeneratorBiletow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/Poczta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/Rejestracja.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/SingletonZadaniePoczta/StronaInternetowa.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -23,81 +28,23 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Bohater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+            <state relative-caret-position="154">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
-                <element signature="e#381#382#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#482#483#0" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#1076#1077#0" expanded="true" />
+                <element signature="e#1119#1120#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+            <state relative-caret-position="204">
+              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -107,9 +54,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
         <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -121,13 +69,28 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/PostOffice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/COMPUTER_BRAND.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AbstractPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AsusPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AppleMac.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/HpPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/SamsingPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java" />
-        <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java" />
         <option value="$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AbstractFactoryPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AbstractFactoryPC/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/SamsungPC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/Bike.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/BikeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/BikeType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Bohater.java" />
       </list>
     </option>
   </component>
@@ -137,7 +100,9 @@
     <option name="width" value="1026" />
     <option name="height" value="546" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -174,14 +139,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Wzorce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Wzorce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SingletonZadaniePoczta" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -192,9 +149,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553336354223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553347715619" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="CreationalZadaniePC" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,7 +170,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BilderZadania.BilderBohater.Main" />
+      <module name="Wzorce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BilderZadania.BilderBohater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SingletonZadaniePoczta.Main" />
       <module name="Wzorce" />
@@ -222,8 +197,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CreationalZadaniePC.AbstractFactoryPC.Main" />
+      <module name="Wzorce" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CreationalZadaniePC.AbstractFactoryPC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -238,12 +228,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1553328675593</updated>
-      <workItem from="1553328681687" duration="3643000" />
+      <workItem from="1553328681687" duration="10853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3643000" />
+    <option name="totallyTimeSpent" value="10853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -313,7 +303,28 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Main.java</url>
+          <line>3</line>
+          <properties class="BilderZadania.BilderBohater.Main" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -323,58 +334,180 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/StronaInternetowa.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#326#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Automat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#309#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="-80">
+          <caret selection-start-column="2" selection-end-line="19" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#495#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/IGeneratorBiletow.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+        <state>
+          <caret lean-forward="true" selection-start-column="2" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#116#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="56" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="28" selection-end-column="3" />
           <folding>
-            <element signature="e#381#382#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#0#1080#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Rejestracja.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="56" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="7" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#290#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/GeneratorBiletow.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/SingletonZadaniePoczta/Poczta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        <state>
+          <caret selection-start-column="2" selection-end-line="24" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadaniePC/AbstractFactoryPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/SamsungPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/HpPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/Computer_Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AsusPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AppleMac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#217#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/BikeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/BikeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="57" selection-start-line="4" selection-start-column="57" selection-end-line="4" selection-end-column="57" />
+          <folding>
+            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CreationalZadanie/AbstractFactoryPC/AbstractFactoryBike/Bike.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Bohater.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1119#1120#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BilderZadania/BilderBohater/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,6 @@
-package SingletonZadaniePoczta;
-
-public interface IGeneratorBiletow {
-    public int generujBilet();
-
-}
+//package SingletonZadaniePoczta;
+//
+//public interface IGeneratorBiletow {
+//    public int generujBilet();
+//
+//}
